@@ -1,0 +1,27 @@
+{
+    "manifest": {
+        "version": "1.0",
+        "author": "QuadRadical#8459",
+        "name": "Deep Red"
+    },
+    "background": {
+        "overlay_alpha": 0,
+        "url": "https:\/\/media.discordapp.net\/attachments\/784800973410533396\/895025330237095936\/Untitled150_20210912014253_1.png"
+    },
+    "fonts": {},
+    "simple_colors": {
+        "background_secondary": -15000802,
+        "background": -14145496,
+        "accent": -2673622,
+        "mention_highlight": -8184040
+    },
+    "colors": {
+        "primary_dark_300": -2673622,
+        "uikit_settings_item_text_color_light": -2673622
+    },
+    "drawable_tints": {
+        "drawable_overlay_channels_selected_dark": -8184040,
+        "ic_menu_24dp": -2673622,
+        "ic_channel_text": -2673622
+    }
+}
